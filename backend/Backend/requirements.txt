@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+langchain-groq
+langchain-community
+python-dotenv
+langchain-huggingface
+langchain-core
+langchain
+streamlit
+faiss-cpu
+sentence-transformers
+torch==2.0.1
+beautifulsoup4
